@@ -26,10 +26,15 @@ python main.py
 Please cite our paper if you use this code in your own work:
 
 ```
-@inproceedings{wang2021Iterative,
-  title={Implicit Feedbacks are Not Always Favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions},
-  author={Wang, Zitai and Xu, Qianqian and Yang, Zhiyong and Cao, Xiaochun and Huang, Qingming},
-  booktitle={ACM on Multimedia Conference},
-  year={2021}
+@inproceedings{DBLP:conf/mm/WangX0CH21,
+  author    = {Zitai Wang and
+               Qianqian Xu and
+               Zhiyong Yang and
+               Xiaochun Cao and
+               Qingming Huang},
+  title     = {Implicit Feedbacks are Not Always Favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions},
+  booktitle = {{ACM} Multimedia Conference},
+  pages     = {3070--3078},
+  year      = {2021},
 }
 ```

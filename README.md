@@ -17,7 +17,7 @@ The ratings are stored in the files *.lsvm. The data format of the line *user_id
 
 ## Train
 
-Here is an example to generate the new data.
+Here is an example to generate the new data and train the model.
 ```bash
 python main.py
 ```
